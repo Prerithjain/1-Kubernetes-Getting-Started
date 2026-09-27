@@ -321,5 +321,3 @@ Exercise-3-Flask-ReplicaSet/
     ├── 09-pod-distribution.png
     └── 10-final-state.png
 ```
-
-> **Note:** your current `screenshots/` folder has these files named with spaces and em dashes (e.g. `02 — Flask Files.png`), which breaks plain Markdown image links on GitHub. Rename them to match the list above before pushing — see the commands below.
